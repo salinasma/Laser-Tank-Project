@@ -1,5 +1,6 @@
 # Laser-Tank-Project
 Freshman video game design project (04/18/2016-05/3/2016)
+
 group members: Miguel Salinas, Charley Yeng, Shwetha Swaminathan
 
 This project was unsucessful due to too many levels of complexity. Throughout the project's final phase,the group struggled with connecting all the individual modules. Some of the main problems were:
